@@ -1,0 +1,1 @@
+apt install && apt update -y inginx jq net-tools pyton3-pip
