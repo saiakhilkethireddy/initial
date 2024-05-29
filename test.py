@@ -1,0 +1,1 @@
+print("akhil is practing for an interview")
